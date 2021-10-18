@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Tailwind-CSS-React-Apartments-site/static/css/main.eba04c57.chunk.css",
+    "main.js": "/Tailwind-CSS-React-Apartments-site/static/js/main.a5a63987.chunk.js",
+    "main.js.map": "/Tailwind-CSS-React-Apartments-site/static/js/main.a5a63987.chunk.js.map",
+    "runtime-main.js": "/Tailwind-CSS-React-Apartments-site/static/js/runtime-main.725c6cfe.js",
+    "runtime-main.js.map": "/Tailwind-CSS-React-Apartments-site/static/js/runtime-main.725c6cfe.js.map",
+    "static/js/2.88ed5934.chunk.js": "/Tailwind-CSS-React-Apartments-site/static/js/2.88ed5934.chunk.js",
+    "static/js/2.88ed5934.chunk.js.map": "/Tailwind-CSS-React-Apartments-site/static/js/2.88ed5934.chunk.js.map",
+    "index.html": "/Tailwind-CSS-React-Apartments-site/index.html",
+    "static/css/main.eba04c57.chunk.css.map": "/Tailwind-CSS-React-Apartments-site/static/css/main.eba04c57.chunk.css.map",
+    "static/js/2.88ed5934.chunk.js.LICENSE.txt": "/Tailwind-CSS-React-Apartments-site/static/js/2.88ed5934.chunk.js.LICENSE.txt",
+    "static/media/Room1.0d883986.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/Room1.0d883986.jpg",
+    "static/media/Room10.4a6aa6bf.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/Room10.4a6aa6bf.jpg",
+    "static/media/Room11.935b6caf.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/Room11.935b6caf.jpg",
+    "static/media/Room12.7f67baa2.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/Room12.7f67baa2.jpg",
+    "static/media/Room13.d546363f.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/Room13.d546363f.jpg",
+    "static/media/Room14.3e431fc6.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/Room14.3e431fc6.jpg",
+    "static/media/Room15.da6df535.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/Room15.da6df535.jpg",
+    "static/media/Room16.6d114a68.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/Room16.6d114a68.jpg",
+    "static/media/Room2.cc8fe148.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/Room2.cc8fe148.jpg",
+    "static/media/Room3.b9ca487f.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/Room3.b9ca487f.jpg",
+    "static/media/Room4.828b2f44.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/Room4.828b2f44.jpg",
+    "static/media/Room5.85739dd1.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/Room5.85739dd1.jpg",
+    "static/media/Room6.eb4f97c6.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/Room6.eb4f97c6.jpg",
+    "static/media/Room7.3c06a93d.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/Room7.3c06a93d.jpg",
+    "static/media/Room8.3aaf6221.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/Room8.3aaf6221.jpg",
+    "static/media/Room9.7cda761a.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/Room9.7cda761a.jpg",
+    "static/media/adventure.8b8bc310.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/adventure.8b8bc310.jpg",
+    "static/media/boat.f9ce38c4.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/boat.f9ce38c4.jpg",
+    "static/media/index.css": "/Tailwind-CSS-React-Apartments-site/static/media/header2.2e128a39.jpg",
+    "static/media/food.8a3a2d15.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/food.8a3a2d15.jpg",
+    "static/media/forest.565b3392.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/forest.565b3392.jpg",
+    "static/media/pets.eb57de04.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/pets.eb57de04.jpg",
+    "static/media/snow.46f0d201.jpg": "/Tailwind-CSS-React-Apartments-site/static/media/snow.46f0d201.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.725c6cfe.js",
+    "static/js/2.88ed5934.chunk.js",
+    "static/css/main.eba04c57.chunk.css",
+    "static/js/main.a5a63987.chunk.js"
+  ]
+}
